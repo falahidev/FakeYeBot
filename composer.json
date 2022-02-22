@@ -1,0 +1,17 @@
+{
+    "name": "mohammad/fake-ye-bot",
+    "description": "FakeYe Telegram Bot",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mohammad",
+            "email": "falahidev.info@gmail.com"
+        }
+    ],
+    "require": {}
+}
